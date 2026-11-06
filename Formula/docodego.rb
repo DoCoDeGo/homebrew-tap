@@ -1,6 +1,6 @@
 class Docodego < Formula
   desc "The intent-and-evidence layer for the agent age"
-  homepage "https://github.com/DoCoDeGo/docodego-alpha"
+  homepage "https://docodego.com"
   version "0.7.1"
   license "MIT"
 
